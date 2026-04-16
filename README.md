@@ -1,7 +1,6 @@
 # Diabetes Prediction System
 
-A machine learning project developed during the **AI/ML Internship at InternPe**, designed to implement an **end-to-end machine learning workflow** — from data preprocessing, model building, evaluation, to final prediction.  
-The model predicts whether a person is **diabetic or non-diabetic** based on medical data and input features.
+A machine learning project developed during the project, designed to implement an **end-to-end machine learning workflow** — from data preprocessing, model building, evaluation, to final prediction. The model predicts whether a person is **diabetic or non-diabetic** based on medical data and input features.
 
 ---
 
@@ -89,16 +88,11 @@ This project strengthened understanding of:
 
 ---
 
-## Internship
-
-Completed as **Task 4** under the AI/ML Internship at **InternPe**, focusing on medical data classification and machine learning fundamentals.
-
----
 
 ## Author
 
 **Shashwat Gupta**  
 - Student at Amity University, Noida  
-- Developer with expertise in AI/ML and data science  
+- Developer with understanding in AI/ML and data science  
 
-This version is clean, professional, and consistent with your other project READMEs. Would you like me to also add **badges** (Python, Scikit-learn, Internship, License) at the top for visual polish?
+This version is clean and consistent with your other project READMEs. Would you like me to also add **badges** (Python, Scikit-learn, Internship, License) at the top for visual polish.
